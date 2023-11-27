@@ -1,1 +1,1 @@
-t https://depressedpotatok.github.io/test-website/
+ https://depressedpotatok.github.io/test-website/
